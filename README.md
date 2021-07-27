@@ -4,8 +4,8 @@ I am a coder-journalist who has left the newsroom in order to focus on different
 
 ##### Contact
 
-✉️ `basile-at-basilesimon-dot-fr` 🔐 [PGP](https://keys.openpgp.org/search?q=basile%40basilesimon.fr)
-📞 +49 172 253 9671 (Signal/Telegram)
+✉️ `basile-at-basilesimon-dot-fr` 🔐 [PGP](https://keys.openpgp.org/search?q=basile%40basilesimon.fr)  
+📞 +49 172 253 9671 (Signal/Telegram)  
 🔗 [@basilesimon](https://twitter.com/basilesimon) on some social platforms
 
 ##### Past employment

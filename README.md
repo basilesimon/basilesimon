@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 hi, I’m basile
 
-<!--
-**basilesimon/basilesimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a coder-journalist who has left the newsroom in order to focus on different practices of data analysis and visualisation.
 
-Here are some ideas to get you started:
+##### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ `basile-at-basilesimon-dot-fr` 🔐 [PGP](https://keys.openpgp.org/search?q=basile%40basilesimon.fr)
+📞 +49 172 253 9671 (Signal/Telegram)
+🔗 [@basilesimon](https://twitter.com/basilesimon) on some social platforms
+
+##### Past employment
+
+My journalism career started in the UK, where I worked for large broadcasters, newspapers, and agencies.
+
+- Graphics editor, Europe, Middle East and Africa, **Reuters**
+- Senior interactive journalist, **The Times and The Sunday Times**
+- Newsroom developer, **The Times and the Sunday Times**
+- Coder-journalist, **BBC News Labs**
+
+I also co-founded **Airwars**, a non-profit monitoring organisation exposing the harm done to civilians by air conflicts.

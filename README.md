@@ -1,13 +1,13 @@
-### 👋 hi, I’m basile
+## 👋 hi, I’m basile
 
 I am a coder-journalist who has left the newsroom in order to focus on different practices of data analysis and visualisation.
 
-##### Contact
+### Contact
 
 ✉️ `basile-at-basilesimon-dot-fr` 🔐 [PGP](https://keys.openpgp.org/search?q=basile%40basilesimon.fr)  
 🔗 [@basilesimon](https://twitter.com/basilesimon) on some social platforms
 
-##### Past employment
+### Past employment
 
 My journalism career started in the UK, where I worked for large broadcasters, newspapers, and agencies.
 
